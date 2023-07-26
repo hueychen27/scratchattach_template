@@ -5,7 +5,6 @@ import os
 from server import server
 
 os.system("pip install scratchattach")
-os.system("pip install requests")
 
 import scratchattach as scratch3
 
